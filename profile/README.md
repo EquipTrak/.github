@@ -87,7 +87,7 @@ Frontend → API REST → Controllers → Services → Repositories → Banco re
 
 | Item | Tecnologia |
 |---|---|
-| Backend | Java 21 + Spring Boot 3.x |
+| Backend | Java 21 + Spring Boot 4.x |
 | Persistência | Spring Data JPA / Hibernate |
 | Banco de dados | PostgreSQL ou MySQL *(a definir e justificar no ADR)* |
 | API | REST / JSON |
