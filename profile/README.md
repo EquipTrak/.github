@@ -8,7 +8,7 @@
 Projeto **P01** • 2º bimestre • Prazo final: **05/12/2026**
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.x-6DB33F?logo=springboot&logoColor=white)
 ![Status](https://img.shields.io/badge/status-em_desenvolvimento-yellow)
 ![Arquitetura](https://img.shields.io/badge/arquitetura-monólito_modular-blue)
 
